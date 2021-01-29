@@ -2,4 +2,4 @@
 
 # Offbase
 
-> Build web apps that don't rely on a server
+> Build web apps without a server
