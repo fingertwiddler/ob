@@ -31,16 +31,16 @@ img.top {
   display: block;
   margin: 0 auto;
 }
-h1 {
-  text-align: center;
-}
 blockquote {
   padding: 5px;
   background: rgba(0,0,0,0.02);
-  color: rgba(0,0,0,0.7) !important;
+  color: rgba(0,0,0,0.7);
 }
 section.cover .cover-main {
   margin: 0;
+}
+.cover-main .anchor span {
+  color: white;
 }
 section.cover .cover-main>p a {
   border: none !important;
@@ -59,7 +59,8 @@ section.cover.has-mask .mask {
   background: none !important;
 }
 section.cover {
-  background: #ffffff !important;
+  background: rgba(0,0,0,0.8) !important;
+  color: white;
 }
 section.cover p {
   text-transform: uppercase;
@@ -120,6 +121,7 @@ h3 {
 }
 .cover-main blockquote {
   background: none;
+  color: white;
 }
 #ticker {
   width: 100%;

@@ -1,15 +1,1 @@
-{
-  "require": {
-    "app": {
-      "url": "https://github.com/fingertwiddler/docsify.git"
-    }
-  },
-  "settings": {
-    "main": "/home/_coverpage.md",
-    "iframe": true
-  },
-  "$editable": {
-    "settings.main": { "label": "Default file to display" },
-    "settings.iframe": { "label": "Display preview iframe", "type": "boolean" }
-  }
-}
+{"require":{"app":{"url":"https://github.com/fingertwiddler/docsify.git"}},"settings":{"main":"/home/README.md","iframe":true},"$editable":{"settings.main":{"label":"Default file to display"},"settings.iframe":{"label":"Display preview iframe","type":"boolean"}}}

@@ -1,6 +1,5 @@
 <!-- _coverpage.md -->
 
-# Coverpage
+# Offbase
 
-> update coverpage
-
+> Build web apps that don't rely on a server
